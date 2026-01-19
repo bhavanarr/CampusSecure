@@ -32,3 +32,4 @@ function sendSOS(position) {
   document.getElementById("status").innerText =
     `Location captured: ${latitude}, ${longitude}`;
 }
+// updated
